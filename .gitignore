@@ -1,0 +1,16 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.idea/
+.vscode/
+data/raw_videos/
+data/keyframes/
+data/extracted/
+data/try_one/
+*.log
+
+# IDE / tooling
+.claude/
